@@ -9,5 +9,3 @@
 - <img src="https://media.giphy.com/media/HQp9pMIlKV6zQiBlBi/giphy.gif" width="30"/> dbms: MongoDB, PostgreSQL
 
 [![Linkedin Badge](https://img.shields.io/badge/-vynguyen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vythikhanhnguyen/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
