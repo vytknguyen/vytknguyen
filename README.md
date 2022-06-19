@@ -5,3 +5,5 @@
 about me:
 - <img src="https://media.giphy.com/media/lny17WryNVJf4QGUNF/giphy.gif" width="30"/> my name is vy 
 - <img src="https://media.giphy.com/media/tDDIeB24eaOr3xhbia/giphy.gif" width="30"/> i'm a Business Analyst student at City, University of London
+- <img src="https://media.giphy.com/media/B765l5fW76WLpPu8im/giphy.gif" width="30"/> programming languages: python, R
+- <img src="https://media.giphy.com/media/IUNycHoVqvLDowiiam/giphy.gif" width="30"/> dbms: MongoDB, PostgreSQL
