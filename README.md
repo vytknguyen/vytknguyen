@@ -1,8 +1,6 @@
 ## Hello, I'm Vy Nguyen! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">
 
-<h3> 👩‍💻 About Me </h3>
-
-<img src="https://media.giphy.com/media/fzyOvQ7jJplVHhz895/giphy.gif" align="right" width="275" /></a>
+<h3> 👩‍💻 About Me </h3> <img src="https://media.giphy.com/media/fzyOvQ7jJplVHhz895/giphy.gif" align="right" width="200" /></a>
 
 - 🔭 &nbsp; Learning Data Science with **Python**, **R**, **MongoDB**, **PostgreSQL**.
 - 📚 &nbsp; Pursuing MSc Business Analytics at City University of London.
