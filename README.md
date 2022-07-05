@@ -1,11 +1,24 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/V74oh5KFFntGGsWIAM/giphy.gif" width="140"/>
-</div>
+## Hello, I'm Vy Nguyen! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">
 
-### about me:
-- <img src="https://media.giphy.com/media/lny17WryNVJf4QGUNF/giphy.gif" width="30"/> my name is vy (hint: latte and croissant are my breakfast boost to code)
-- <img src="https://media.giphy.com/media/tDDIeB24eaOr3xhbia/giphy.gif" width="30"/> studying MSc Business Analyst at City University of London
-- <img src="https://media.giphy.com/media/nj8meeDBjFZGlTJBQk/giphy.gif" width="30"/> programming languages: python, R
-- <img src="https://media.giphy.com/media/HQp9pMIlKV6zQiBlBi/giphy.gif" width="30"/> dbms: MongoDB, PostgreSQL
+<h3> 👩‍💻 About Me </h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-vynguyen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vythikhanhnguyen/)
+<img src="https://media.giphy.com/media/fzyOvQ7jJplVHhz895/giphy.gif" align="right" width="275" /></a>
+
+- 🔭 &nbsp; Learning Data Science with **Python**, **R**, **MongoDB**, **PostgreSQL**.
+- 📚 &nbsp; Pursuing MSc Business Analytics at City University of London.
+- 🎓 &nbsp; Studying MSc Marketing at University of Durham.
+- 🎨 &nbsp; Enjoy painting, photographing, and designing.
+
+<h3> 🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | R
+- 🛢 &nbsp; MySQL | PostgreSQL
+- 🖥 &nbsp; Adobe Photoshop 
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="left"> 
+&nbsp; <a href="https://www.instagram.com/vy.ngtk/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/vythikhanhnguyen/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:ngtkhanhvy@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
