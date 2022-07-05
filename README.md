@@ -4,7 +4,7 @@
 
 - 🔭 &nbsp; Learning Data Science with **Python**, **R**, **MongoDB**, **PostgreSQL**.
 - 📚 &nbsp; Pursuing MSc Business Analytics at City University of London.
-- 🎓 &nbsp; Studying MSc Marketing at University of Durham.
+- 🎓 &nbsp; Studied MSc Marketing at University of Durham.
 - 🎨 &nbsp; Enjoy painting, photographing, and designing.
 
 <img src="https://media.giphy.com/media/fzyOvQ7jJplVHhz895/giphy.gif" align="right" width="250" /></a>
