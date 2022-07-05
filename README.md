@@ -7,9 +7,9 @@
 - 🎓 &nbsp; Studying MSc Marketing at University of Durham.
 - 🎨 &nbsp; Enjoy painting, photographing, and designing.
 
-<h3> 🛠 Tech Stack</h3> 
-
 <img src="https://media.giphy.com/media/fzyOvQ7jJplVHhz895/giphy.gif" align="right" width="200" /></a>
+
+<h3> 🛠 Tech Stack</h3> 
 
 - 💻 &nbsp; Python | R
 - 🛢 &nbsp; MySQL | PostgreSQL
